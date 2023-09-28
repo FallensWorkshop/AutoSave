@@ -5,11 +5,6 @@ Sick of Unity crashing and you losing all your progress, well let that be a worr
 
 ![Screenshot 2023-09-28 231646](https://github.com/FallensWorkshop/AutoSave/assets/142435339/59afce71-f729-4d3a-b36b-7f1c7e233115)
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-
 ## Description
 
 We have all been there, busy focusing on the project then Unity decides it's time and crashes.
