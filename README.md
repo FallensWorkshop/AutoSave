@@ -3,7 +3,7 @@ Sick of Unity crashing and you losing all your progress, well let that be a worr
 
 ![Latest Version](https://img.shields.io/github/v/tag/FallensWorkshop/UnityAutoSave?label=Latest%20Version)    [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)
 
-![image](https://github.com/FallensWorkshop/UnityAutoSave/assets/142435339/fd1ef0bb-33c1-4b6a-949b-1867efd14d22)  
+![image](https://github.com/FallensWorkshop/AutoSave/assets/142435339/fd1ef0bb-33c1-4b6a-949b-1867efd14d22)  
 
 ## Table of Contents
 - [Description](#description)
