@@ -27,6 +27,3 @@ Well let that be a worry of the past with this Auto Save you can save at any tim
 ## Installation
 
 Download Latest UnityPackage: [Latest Unity Package](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)
-
-VRChat Creator Companion: [Add repo](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)
-
