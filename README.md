@@ -1,7 +1,7 @@
 # AutoSave
 Sick of Unity crashing and you losing all your progress, well let that be a worry of the past.
 
-![Latest Version](https://img.shields.io/github/v/tag/FallensWorkshop/UnityAutoSave?label=Latest%20Version)    [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)
+![Latest Version](https://img.shields.io/github/v/tag/FallensWorkshop/UnityAutoSave?label=Latest%20Version)    [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-purple)](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)  [![VCC Install](https://img.shields.io/badge/VCC_Install-How_To-cyan)](https://github.com/FallensWorkshop/AutoSave/tree/main#install-vcc-repo)
 
 ![Screenshot 2023-09-28 231646](https://github.com/FallensWorkshop/AutoSave/assets/142435339/59afce71-f729-4d3a-b36b-7f1c7e233115)
 
