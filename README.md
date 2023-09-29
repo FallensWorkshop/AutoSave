@@ -19,9 +19,27 @@ Well let that be a worry of the past with this Auto Save you can save at any tim
 - Toggle to save before entering Play Mode
 - Easy to use and requires no setup, just import and your protected
 
-## Installation
+## Download Unity Package
 
 Download Latest UnityPackage: [Latest Unity Package](https://github.com/FallensWorkshop/UnityAutoSave/releases/latest)
 
-VRChat Creator Companion: [Add To VCC](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/FallensWorkshop/AutoSave/main/VCC.json)
+## Install VCC Repo
+
+- Copy Link: <https://raw.githubusercontent.com/FallensWorkshop/AutoSave/main/VCC.json>
+
+- Open VCC
+
+- Click "Settings" tab (Bottom left)
+
+- Select "Packages" then "Add Repository"
+
+- Paste and click add
+
+![image](https://github.com/FallensWorkshop/AutoSave/assets/142435339/ac76d487-f5a9-45a4-a895-1ac4392d13e9)
+
+- Click "I Understand, Add Repository"
+
+![image](https://github.com/FallensWorkshop/AutoSave/assets/142435339/e2d4d945-874c-492e-a732-1379e18dba51)
+
+- Done
 
