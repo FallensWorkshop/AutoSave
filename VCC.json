@@ -1,5 +1,5 @@
 {
-  "name": "Fallen's Workshop - Auto Save VCC",
+  "name": "Fallen's Workshop Repo - Auto Save",
   "author": "Fallen's Workshop",
   "url": "https://github.com/FallensWorkshop",
   "id": "com.fallensworkshop.autosave",
@@ -12,6 +12,7 @@
           "version": "1.0.0",
           "description": "Sick of Unity crashing and you losing all your progress. /nWell let that be a worry of the past with this Auto Save you can save at any time duration you want or when you enter Play Mode, meaning no matter what you won't lose any progress anymore and not have to worry about constantly saving for yourself.",
           "hideInEditor": true,
+          "legacyFolders": {},
           "url": "https://github.com/FallensWorkshop/AutoSave/releases/download/v1.0.0/VCC-fallensworkshop-autosave-1.0.0.zip"
         }
       }
