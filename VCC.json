@@ -35,7 +35,7 @@
           "hideInEditor": false,
           "legacyFolders": {},
           "url": "https://github.com/FallensWorkshop/AutoSave/releases/download/v1.0.2/VCC-fallensworkshop-autosave-1.0.2.zip"
-        }
+        },
         "1.0.3": {
           "name": "com.fallensworkshop.autosave",
           "unity" : "2022.3",
